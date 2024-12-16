@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1Fob_tw2RTy819t0R9PeX6d6SjV9ypsaB/view?usp=drive
 <img width="194" alt="image" src="https://github.com/user-attachments/assets/11a72433-cfc8-4595-918e-eeb506292dcc" />
 
 
-Generate folder structure like this and please myroom.glb inside the models folder
+Generate folder structure like this and place "myroom.glb" inside the models folder
 
 ## Development server
 
