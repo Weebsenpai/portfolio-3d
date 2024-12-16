@@ -1,6 +1,17 @@
 # Portfolio3d
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+This is **THREE.JS**  3D Portfolio 
+_(Under Development)_
+
+**You can visit URL** : https://portfolio-3d-007.web.app/home
+But loading time will be 60sec. 
+
+You can clone the code from above and download model from :->
+https://drive.google.com/file/d/1Fob_tw2RTy819t0R9PeX6d6SjV9ypsaB/view?usp=drive_link
+
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/11a72433-cfc8-4595-918e-eeb506292dcc" />
+Generate folder structure like this and please myroom.glb inside the models folder
 
 ## Development server
 
